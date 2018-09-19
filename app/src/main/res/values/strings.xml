@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lovely doggies</string>
+    <string name="net_error">No internet connection</string>
+</resources>
